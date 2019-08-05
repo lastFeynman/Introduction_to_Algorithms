@@ -1,7 +1,7 @@
 package part1.chapter2.section2_1;
 
 public class InsertionSort {
-    private static void insertionSort(int[] A){
+    public static void insertionSort(int[] A){
         for (int i=1;i<A.length;i++){
             int num = A[i];
             int j = i-1;
