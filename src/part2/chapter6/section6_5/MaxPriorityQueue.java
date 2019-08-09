@@ -1,8 +1,7 @@
-package part1.chapter6.section6_5;
+package part2.chapter6.section6_5;
 
-import part1.chapter6.Heap;
-import part1.chapter6.section6_2.MaxHeapify;
-import part1.chapter6.section6_3.BuildMaxHeap;
+import part2.chapter6.Heap;
+import part2.chapter6.section6_2.MaxHeapify;
 
 public class MaxPriorityQueue {
     // make sure the parameter heap is a max heap

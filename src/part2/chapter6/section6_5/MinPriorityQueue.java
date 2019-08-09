@@ -1,8 +1,7 @@
-package part1.chapter6.section6_5;
+package part2.chapter6.section6_5;
 
-import part1.chapter6.Heap;
-import part1.chapter6.section6_2.MinHeapify;
-import part1.chapter6.section6_3.BuildMinHeap;
+import part2.chapter6.Heap;
+import part2.chapter6.section6_2.MinHeapify;
 
 public class MinPriorityQueue {
     // make sure the parameter heap is a min heap

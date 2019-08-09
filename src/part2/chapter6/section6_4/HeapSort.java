@@ -1,8 +1,8 @@
-package part1.chapter6.section6_4;
+package part2.chapter6.section6_4;
 
-import part1.chapter6.Heap;
-import part1.chapter6.section6_2.MaxHeapify;
-import part1.chapter6.section6_3.BuildMaxHeap;
+import part2.chapter6.Heap;
+import part2.chapter6.section6_2.MaxHeapify;
+import part2.chapter6.section6_3.BuildMaxHeap;
 
 public class HeapSort {
     public static void heapSort(Heap heap){

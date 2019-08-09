@@ -1,7 +1,7 @@
-package part1.chapter6.section6_3;
+package part2.chapter6.section6_3;
 
-import part1.chapter6.Heap;
-import part1.chapter6.section6_2.MinHeapify;
+import part2.chapter6.Heap;
+import part2.chapter6.section6_2.MinHeapify;
 
 public class BuildMinHeap {
     public static void buildMinHeap(Heap heap){

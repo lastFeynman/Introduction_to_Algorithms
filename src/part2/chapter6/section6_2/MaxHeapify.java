@@ -1,6 +1,6 @@
-package part1.chapter6.section6_2;
+package part2.chapter6.section6_2;
 
-import part1.chapter6.Heap;
+import part2.chapter6.Heap;
 
 public class MaxHeapify {
     public static void maxHeapify(Heap heap, int i){

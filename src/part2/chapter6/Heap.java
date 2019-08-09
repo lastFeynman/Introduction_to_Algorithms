@@ -1,4 +1,4 @@
-package part1.chapter6;
+package part2.chapter6;
 
 public class Heap {
     public int[] A = new int[0];
